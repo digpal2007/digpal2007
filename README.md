@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digpal2007
+- 👋 Hi, I’m @Digpal Singh
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning in IITM
 - 💞️ I’m looking to collaborate on mobile app
